@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Le\u00F3n
+comment1.params=tamanioBoca\ numeroOjos\ numeroOidos
+comment1.target=Le\u00F3n(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=velocidad
+comment2.target=java.lang.String\ velocidadLe\u00F3n(int)
+numComments=3

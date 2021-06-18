@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Canguro
+comment1.params=tamanioBoca\ numeroOjos\ numeroOidos
+comment1.target=Canguro(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=nroPatas
+comment2.target=java.lang.String\ canguroSaltar(java.lang.String)
+numComments=3

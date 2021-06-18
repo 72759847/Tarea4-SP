@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Oso
+comment1.params=tamanioBoca\ numeroOjos\ numeroOidos
+comment1.target=Oso(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=color
+comment2.target=java.lang.String\ colorOso(java.lang.String)
+numComments=3
